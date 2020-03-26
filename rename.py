@@ -8,4 +8,3 @@ import time
 # 	new_file = os.path.join(f_path, str(idx) + "-" + str(time.time_ns()) + ".jpg")
 # 	print(idx, val)
 # 	os.rename(old_file, new_file)
-
